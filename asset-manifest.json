@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0ec1452a.css",
+    "main.js": "./static/js/main.85550c0c.js",
+    "static/media/rtc.png": "./static/media/rtc.7b2955e3b76245489fa1.png",
+    "static/media/itemimage.jpg": "./static/media/itemimage.32b6f758a9d60a54cf07.jpg",
+    "static/media/playstore_badge.png": "./static/media/playstore_badge.f960fdcd82f10eb63f5e.png",
+    "static/media/logo-medium.png": "./static/media/logo-medium.74583f3aa382ae63553e.png",
+    "index.html": "./index.html",
+    "main.0ec1452a.css.map": "./static/css/main.0ec1452a.css.map",
+    "main.85550c0c.js.map": "./static/js/main.85550c0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec1452a.css",
+    "static/js/main.85550c0c.js"
+  ]
+}
